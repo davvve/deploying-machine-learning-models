@@ -1,4 +1,4 @@
-NAME=udemy-ml-api
+NAME=davve-ml-api
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
